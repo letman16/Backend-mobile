@@ -1,6 +1,5 @@
 #ignore semuanya
-P1/*
-P2/*
+/P1/*
 
-!P1/lib/
-!P2/lib/
+!P1/latihan_praktek1/lib/
+!P2/latihan_praktek2/lib/
