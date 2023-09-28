@@ -1,0 +1,6 @@
+#ignore semuanya
+/P1/*
+/P2/*
+
+!P1/lib/
+!P2/lib/
