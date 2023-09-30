@@ -1,6 +1,6 @@
 #ignore semuanya
-/P1/latihan_praktek1/*
-/P2/latihan_praktek2/*
+/P1/latihan_praktek/*
+/P2/latihan_praktek/*
 
-!P1/latihan_praktek1/lib/
-!P2/latihan_praktek2/lib/
+!P1/latihan_praktek/lib/
+!P2/latihan_praktek/lib/
