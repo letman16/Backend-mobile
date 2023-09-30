@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:latihan_praktek/Contoh2.dart';
-import 'package:latihan_praktek/DaftarPengguna.dart';
 
 void main() {
   runApp(const MyApp());
