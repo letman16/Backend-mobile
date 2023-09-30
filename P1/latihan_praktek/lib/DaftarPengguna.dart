@@ -11,7 +11,18 @@ class _DaftarPenggunaState extends State<DaftarPengguna> {
   dynamic data;
 
   Future<void> getUserData() {
-    data = ['Bunny', "Funny", "Miles"];
+    data = {
+      [
+        {"nim": "211111578", "nama": "LUKMAN HAKIM", "no_telp": "0812345678"}
+      ],
+      [
+        {
+          "nim": "123456789",
+          "nama": "CINDY ANDITA PUTRI",
+          "no_telp": "0876543210"
+        }
+      ],
+    };
     return Future.delayed(const Duration(seconds: 3), () {
       print("Downloaded ${data.length} data");
     });
