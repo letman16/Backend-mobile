@@ -1,6 +1,14 @@
 #ignore semuanya
 /P1/latihan_praktek/*
 /P2/latihan_praktek/*
+/P3/latihan_praktek/*
+/P4/latihan_praktek/*
+/Tugas Kelompok/mobile_backend_proyek/*
 
 !P1/latihan_praktek/lib/
 !P2/latihan_praktek/lib/
+
+!P3/latihan_praktek/lib/
+!P4/latihan_praktek/lib/
+
+!Tugas Kelompok/mobile_backend_proyek/lib/*
